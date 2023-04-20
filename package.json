@@ -1,0 +1,13 @@
+{
+    "name": "siter-tinymce-placeholder",
+    "version": "1.0",
+    "description": "tinymce-placeholder under the MIT License",
+    "main": "plugin.js",
+    "repository": {
+      "type": "git",
+      "url": "git@github.com:Zendfony/siter-tinymce-placeholder.git"
+    },
+    "author": "Riadh CHERIF",
+    "license": "MIT"
+  }
+  
