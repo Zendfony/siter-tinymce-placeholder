@@ -1,5 +1,5 @@
 {
-  "name": "tinymce-placeholder",
+  "name": "siter-tinymce-placeholder",
   "version": "1.0",
   "license": "MIT",
   "main": "./plugin.js",
